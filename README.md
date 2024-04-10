@@ -1,4 +1,4 @@
-# Nero-API-Frontend
+# Star-API-Frontend
 
 ## 项目介绍
 Nero-API 接口开放平台前端代码仓库。 这是一个提供API接口供开发者调用的平台

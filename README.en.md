@@ -1,4 +1,4 @@
-# Nero-API-Frontend
+# Star-API-Frontend
 
 ## Project introduction
 The Nero-API interface opens the front-end code repository of the platform. This is a platform that provides API interface for developers to call.
