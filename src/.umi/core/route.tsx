@@ -18,8 +18,8 @@ export async function getRoutes() {
 '8': React.lazy(() => import(/* webpackChunkName: "p__Admin__InterfaceInfoAnalysis__index" */'@/pages/Admin/InterfaceInfoAnalysis/index.tsx')),
 '9': React.lazy(() => import(/* webpackChunkName: "p__User__Profile__index" */'@/pages/User/Profile/index.tsx')),
 '10': React.lazy(() => import(/* webpackChunkName: "p__404" */'@/pages/404.tsx')),
-'ant-design-pro-layout': React.lazy(() => import(/* webpackChunkName: "umi__plugin-layout__Layout" */'/Users/haochen/IdeaProjects/nero-api-frontend-master/src/.umi/plugin-layout/Layout.tsx')),
-'umi/plugin/openapi': React.lazy(() => import(/* webpackChunkName: "umi__plugin-openapi__openapi" */'/Users/haochen/IdeaProjects/nero-api-frontend-master/src/.umi/plugin-openapi/openapi.tsx')),
+'ant-design-pro-layout': React.lazy(() => import(/* webpackChunkName: "umi__plugin-layout__Layout" */'/Users/haochen/IdeaProjects/StarApi/StarApi-frontend/src/.umi/plugin-layout/Layout.tsx')),
+'umi/plugin/openapi': React.lazy(() => import(/* webpackChunkName: "umi__plugin-openapi__openapi" */'/Users/haochen/IdeaProjects/StarApi/StarApi-frontend/src/.umi/plugin-openapi/openapi.tsx')),
 },
   };
 }

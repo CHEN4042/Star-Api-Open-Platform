@@ -14,7 +14,7 @@ const Settings: ProLayoutProps & {
     fixedHeader: true,
     fixSiderbar: true,
     colorWeak: true,
-    title: 'Panda API',
+    title: 'Star API',
     siderMenuType: 'sub',
     pwa: true,
     logo: "https://image-bed-ichensw.oss-cn-hangzhou.aliyuncs.com/logo.png",

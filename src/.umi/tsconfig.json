@@ -27,7 +27,7 @@
         "src/.umi/*"
       ],
       "@umijs/max": [
-        "/Users/haochen/IdeaProjects/nero-api-frontend-master/node_modules/umi"
+        "/Users/haochen/IdeaProjects/StarApi/StarApi-frontend/node_modules/umi"
       ],
       "@umijs/max/typings": [
         "src/.umi/typings"

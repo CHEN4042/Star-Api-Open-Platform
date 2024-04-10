@@ -3,7 +3,7 @@
 // DO NOT CHANGE IT MANUALLY!
 import React from 'react';
 import { Avatar, version, Dropdown, Menu, Spin } from 'antd';
-import { LogoutOutlined } from '/Users/haochen/IdeaProjects/nero-api-frontend-master/node_modules/@ant-design/icons';
+import { LogoutOutlined } from '/Users/haochen/IdeaProjects/StarApi/StarApi-frontend/node_modules/@ant-design/icons';
 
 export function getRightRenderContent (opts: {
    runtimeConfig: any,

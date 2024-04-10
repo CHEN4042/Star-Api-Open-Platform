@@ -1,7 +1,7 @@
 # Star-API-Frontend
 
 ## Project introduction
-The Nero-API interface opens the front-end code repository of the platform. This is a platform that provides API interface for developers to call.
+The Star-API interface opens the front-end code repository of the platform. This is a platform that provides API interface for developers to call.
 Users can log in, register and activate the permission to call the API. The calls to the API will be counted and may be charged later.
 Administrators can publish interfaces, offline interfaces, access interfaces, and online debugging interfaces.
 
